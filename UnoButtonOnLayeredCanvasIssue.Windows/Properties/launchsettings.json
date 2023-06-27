@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"UnoButtonOnLayeredCanvasIssue.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"UnoButtonOnLayeredCanvasIssue.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}

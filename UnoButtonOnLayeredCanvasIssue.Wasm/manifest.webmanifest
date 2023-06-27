@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoButtonOnLayeredCanvasIssue",
+  "display": "standalone",
+  "name": "UnoButtonOnLayeredCanvasIssue",
+  "short_name": "UnoButtonOnLayeredCanvasIssue",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
